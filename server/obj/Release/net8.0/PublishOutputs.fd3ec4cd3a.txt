@@ -1,0 +1,10 @@
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/server
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/appsettings.Development.json
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/appsettings.json
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/server.dll
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/server.deps.json
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/server.runtimeconfig.json
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/server.pdb
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/SendGrid.dll
+/workspaces/Nico-Portfolio-remastered/server/bin/Release/net8.0/publish/StarkbankEcdsa.dll
